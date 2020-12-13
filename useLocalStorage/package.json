@@ -1,5 +1,5 @@
 {
-  "name": "@dhooks/use-localStorage",
+  "name": "@dhooks/use-localstorage",
   "version": "1.0.0",
   "description": "React Hook to get and set items in local storage",
   "main": "index.js",

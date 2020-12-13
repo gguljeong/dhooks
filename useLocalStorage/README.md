@@ -6,17 +6,17 @@ React Hook to get and set items in local storage
 
 #### yarn
 
-`yarn add @dhooks/use-localStorage`
+`yarn add @dhooks/use-localstorage`
 
 #### npm
 
-`npm i @dhooks/use-localStorage`
+`npm i @dhooks/use-localstorage`
 
 ## Usage
 
 ```js
 import React from "react";
-import useLocalStorage from "@dhooks/use-localStorage";
+import useLocalStorage from "@dhooks/use-localstorage";
 
 const App = () => {
   const { element, msg, setData, getData } = useLocalStorage("key");
