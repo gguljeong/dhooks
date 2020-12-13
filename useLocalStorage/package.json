@@ -1,0 +1,25 @@
+{
+  "name": "@dhooks/use-localStorage",
+  "version": "1.0.0",
+  "description": "React Hook to get and set items in local storage",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gguljeong/dhooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "localstorage"
+  ],
+  "author": "Daisy <jeog02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gguljeong/dhooks/issues"
+  },
+  "homepage": "https://github.com/gguljeong/dhooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
